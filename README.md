@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm meijklissa20925
 
-<!--
-**meijklissa20925/meijklissa20925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎣 🏸 💡 🔥 Dedicated to mastering data structures 🎣 🏸 💡 🔥
 
-Here are some ideas to get you started:
+## About Me
+🚵 📚 🎾 🛹 A passionate developer who loves product management 🚵 📚 🎾 🛹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎬 💻 🎨 🛹 Enthusiastic about full stack development 🎬 💻 🎨 🛹
+
+### Fun Facts
+🏒 🏒 A passionate developer who loves natural language processing 🏒 🏒
+
+---
+🥁 🏏 🚣 🎪 🎮 Thanks for visiting my profile! 🎤 🚴 ✨ 🛶 🎳
